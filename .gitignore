@@ -215,3 +215,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#arquivo de anotacoes.txt
+anot.txt
