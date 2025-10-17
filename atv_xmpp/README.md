@@ -15,6 +15,10 @@
 
 Esse projeto consiste na implementação do bot de mensagens [Eliza](https://pt.wikipedia.org/wiki/ELIZA), considerado o primeiro software de simulação de conversa, para o uso em mensagens via [XMPP](https://pt.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol). Para essa implementação, utilizamos uma versão reduzida do bot escrita em python e disponibilizada como uma lib pelo usuário [Jez Higgins](https://github.com/jezhiggins), acessível no seu [repositório](https://github.com/jezhiggins/eliza.py) do GitHub.
 
+**Video de demonstração:**
+
+[![Demonstração de uso](assets/thumb.png)](https://youtu.be/z9qq0Q_Y1QI)
+
 ### Utilização
 
 #### Instalando as dependencias
