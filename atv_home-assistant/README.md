@@ -6,11 +6,11 @@
 
 <p align ="center">
 <a href= "#sobre-este-projeto">🕹️ Sobre este projeto</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href = "#consideracoes">📚 Considerações</a>  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#licenca">📝 Licença</a>
 </p>
 
 <hr>
-
 
 <h2 id = "sobre-este-projeto">🕹️ Sobre este projeto</h2>
 
@@ -76,6 +76,26 @@ Para validar o dashboard sem sensores físicos, execute o script **sensores.js**
 node sensores.js
 ```
 
+***
+<h2 id = "consideracoes">📚 Considerações</h2>
+
+Inicialmente, eu fiz essa atividade como uma forma de descontrair no fim do semestre. 
+
+Normalmente, os trabalhos do Instituto Metrópole Digital têm um apelo muito forte para a área comercial, com frases como **"por que o seu cliente gostaria disso?"** para direcionar os alunos. Quando vi um **"use a criatividade"**, encontrei a oportunidade perfeita de fugir um pouco desse ar corporativo.
+
+Eu não sou completamente contra a abordagem do IMD de incentivar a criação de startups, ainda mais considerando a sua incubadora, mas, do meu ponto de vista, esse discurso acaba empobrecendo o estudante, que poderia estar fazendo algo mais útil que entrar para o grupo de donos de Jeep Renegade, como contribuir para o open source ou entrar para projetos de pesquisa. 
+
+Encontrar professores que incentivam esse outro lado da vida acadêmica sempre me deixa muito feliz e fico ainda mais feliz que tenham gostado da minha "brincadeira" fora do comum, usando o Minecraft como plataforma de desenvolvimento.
+
+O meu professor, [Ramon Fontes](https://github.com/ramonfontes), acabou criando uma versão mais encorpada que cria uma cópia virtual da sua casa no Minecraft em conjunto com o HomeAssistantMC, de modo que é possível controlar itens da casa a partir do digital twin em game.  Eu  recomendo que vejam o video a seguir:
+
+**Demonstração feita por Ramon Fontes**
+
+[![Demonstração do professor](assets/preview_video_prof.png)](https://youtu.be/FsNvzliUn4U)
+
+
+Espero conseguir pagar outras matérias assim nos próximos semestres.
+***
 
 <h2 id="licenca">📝 Licença</h2>
 
