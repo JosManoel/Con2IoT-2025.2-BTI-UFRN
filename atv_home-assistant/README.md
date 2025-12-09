@@ -91,7 +91,7 @@ O meu professor, [Ramon Fontes](https://github.com/ramonfontes), acabou criando 
 
 **Demonstração feita por Ramon Fontes**
 
-[![Demonstração do professor](assets/preview_video_prof.png)](https://youtu.be/FsNvzliUn4U)
+[![Demonstração do professor](assets/preview_video_prof.png)](https://youtu.be/tRxGRKKMT6A?si=AEmLm173P4fBZb-7)
 
 
 Espero conseguir pagar outras matérias assim nos próximos semestres.
